@@ -8,11 +8,11 @@ Features:
 
 3. Student Eligibility Page:
    Dynamic filter to find eligible students based on:
-      Minimum Problems Solved
-      Minimum Mock Interview Score
-      Maximum Age
-      Minimum Mini Project Completed
-      Minimum Assessments Completed
+      Minimum Problems Solved,
+      Minimum Mock Interview Score,
+      Maximum Age,
+      Minimum Mini Project Completed,
+      Minimum Assessments Completed,
 
 4. Data Insights Page:
 
