@@ -15,32 +15,22 @@ Features:
       Minimum Assessments Completed
 
 4. Data Insights Page:
-
-10 custom SQL queries executed on the database.
-
-Visual insights (bar plots, pie charts, scatter plots, histograms) using Matplotlib.
-
-Real-time display of query results in tables.
+   10 custom SQL queries executed on the database.
+   Visual insights (bar plots, pie charts, scatter plots, histograms) using Matplotlib.
+   Real-time display of query results in tables.
 
 5. Datasets (SQLite Database)
-Students_Table — Basic details of students.
+   Students_Table — Basic details of students.
+   Programming_Table — Programming skill-related data.
+   Soft_Skills_Table — Scores on various soft skills.
+   Placements_Table — Placement details and outcomes.
 
-Programming_Table — Programming skill-related data.
+   Using Faker, random library the datasets are created.
 
-Soft_Skills_Table — Scores on various soft skills.
-
-Placements_Table — Placement details and outcomes.
-
-Using Faker, random library the datasets are created.
-
-6. Technologies Used
-Python 3
-
-Streamlit — Web App development
-
-SQLite3 — Lightweight relational database
-
-Pandas — Data handling
-
-Matplotlib — Visualizations
+6. Technologies Used: 
+   Python 3
+   Streamlit — Web App development
+   SQLite3 — Lightweight relational database
+   Pandas — Data handling
+   Matplotlib — Visualizations
 
