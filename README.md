@@ -12,7 +12,7 @@ Features:
       Minimum Mock Interview Score,
       Maximum Age,
       Minimum Mini Project Completed,
-      Minimum Assessments Completed,
+      Minimum Assessments Completed
 
 4. Data Insights Page:
 
